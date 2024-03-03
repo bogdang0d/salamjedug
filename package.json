@@ -1,0 +1,11 @@
+{
+  "name": "salamjedug",
+  "version": "1.1.2",
+  "description": "my firts project on tea testnet salam jedag jedug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
